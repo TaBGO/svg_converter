@@ -20,3 +20,4 @@ Plusieurs arguments peuvent être utilisés dans l'ordre suivant :
 Si la valeur de redimensionnement est supérieure à 1, alors le rendu est adapté automatiquement pour le robot [ozobot](https://ozobot.com).
 
 ## usage avec TabGO
+Il est possible d'utiliser directement le convertisseur avec le lecteur **TabGO**.
