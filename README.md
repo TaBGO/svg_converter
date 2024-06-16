@@ -21,3 +21,6 @@ Si la valeur de redimensionnement est supérieure à 1, alors le rendu est adapt
 
 ## usage avec TabGO
 Il est aussi possible d'utiliser directement le convertisseur avec le lecteur **TabGO**. A l'issue de la reconnaissance du code, le fichier svg est produit automatiquement.
+
+
+*Ce convertisseur a été développé par [Noémie Guiraud](https://github.com/NoemGir)*
