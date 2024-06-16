@@ -14,10 +14,10 @@ Plusieurs arguments peuvent être utilisés dans l'ordre suivant :
 * **translation en x** : indique le nombre de pixels de décalage de la figure en x (*valeur entière*) 
 * **translation en y** : indique le nombre de pixels de décalage de la figure en y (*valeur entière*) 
   
-``python convertor.py <sb3-file> <scale> <translation_x> <translation_y>
+``python convertor.py <sb3_file> <scale> <translation_x> <translation_y>
 ``
 
 Si la valeur de redimensionnement est supérieure à 1, alors le rendu est adapté automatiquement pour le robot [ozobot](https://ozobot.com).
 
 ## usage avec TabGO
-Il est possible d'utiliser directement le convertisseur avec le lecteur **TabGO**.
+Il est aussi possible d'utiliser directement le convertisseur avec le lecteur **TabGO**. A l'issue de la reconnaissance du code, le fichier svg est produit automatiquement.
