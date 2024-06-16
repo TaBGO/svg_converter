@@ -16,6 +16,7 @@ Plusieurs arguments peuvent être utilisés dans l'ordre suivant :
   
 ``python convertor.py <sb3-file> <scale> <translation_x> <translation_y>
 ``
+
 Si la valeur de redimensionnement est supérieure à 1, alors le rendu est adapté automatiquement pour le robot [ozobot](https://ozobot.com).
 
 ## usage avec TabGO
